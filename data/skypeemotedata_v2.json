@@ -1,0 +1,1244 @@
+{
+    "(*)": {
+        "sprite20": {
+            "steps": 63,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7571.bmp"
+        },
+        "sprite40": {
+            "steps": 63,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7771.bmp"
+        }
+    },
+    "(:|": {
+        "sprite20": {
+            "steps": 68,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7507.bmp"
+        },
+        "sprite40": {
+            "steps": 68,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7707.bmp"
+        }
+    },
+    "(^)": {
+        "sprite20": {
+            "steps": 98,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7566.bmp"
+        },
+        "sprite40": {
+            "steps": 98,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7766.bmp"
+        }
+    },
+    "(angel)": {
+        "sprite20": {
+            "steps": 83,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7531.bmp"
+        },
+        "sprite40": {
+            "steps": 83,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7731.bmp"
+        }
+    },
+    "(angry)": {
+        "sprite20": {
+            "steps": 113,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7521.bmp"
+        },
+        "sprite40": {
+            "steps": 113,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7721.bmp"
+        }
+    },
+    "(bah)": {
+        "sprite40": {
+            "steps": 111,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7798.bmp"
+        }
+    },
+    "(bandit)": {
+        "sprite20": {
+            "steps": 101,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7560.bmp"
+        },
+        "sprite40": {
+            "steps": 101,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7760.bmp"
+        }
+    },
+    "(bartlett)": {
+        "sprite20": {
+            "steps": 79,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7593.bmp"
+        },
+        "sprite40": {
+            "steps": 79,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7793.bmp"
+        }
+    },
+    "(beer)": {
+        "sprite20": {
+            "steps": 75,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7567.bmp"
+        },
+        "sprite40": {
+            "steps": 75,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7767.bmp"
+        }
+    },
+    "(bike)": {
+        "sprite20": {
+            "steps": 12,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7600.bmp"
+        },
+        "sprite40": {
+            "steps": 12,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7800.bmp"
+        }
+    },
+    "(bow)": {
+        "sprite20": {
+            "steps": 59,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7539.bmp"
+        },
+        "sprite40": {
+            "steps": 59,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7739.bmp"
+        }
+    },
+    "(bug)": {
+        "sprite20": {
+            "steps": 77,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7578.bmp"
+        },
+        "sprite40": {
+            "steps": 77,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7778.bmp"
+        }
+    },
+    "(call)": {
+        "sprite20": {
+            "steps": 45,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7587.bmp"
+        },
+        "sprite40": {
+            "steps": 45,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7787.bmp"
+        }
+    },
+    "(cash)": {
+        "sprite20": {
+            "steps": 26,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7564.bmp"
+        },
+        "sprite40": {
+            "steps": 26,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7764.bmp"
+        }
+    },
+    "(cat)": {
+        "sprite20": {
+            "steps": 120,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7599.bmp"
+        },
+        "sprite40": {
+            "steps": 120,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7799.bmp"
+        }
+    },
+    "(chuckle)": {
+        "sprite20": {
+            "steps": 44,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7536.bmp"
+        },
+        "sprite40": {
+            "steps": 44,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7736.bmp"
+        }
+    },
+    "(clap)": {
+        "sprite20": {
+            "steps": 39,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7537.bmp"
+        },
+        "sprite40": {
+            "steps": 39,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7737.bmp"
+        }
+    },
+    "(coffee)": {
+        "sprite20": {
+            "steps": 27,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7562.bmp"
+        },
+        "sprite40": {
+            "steps": 27,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7762.bmp"
+        }
+    },
+    "(cool)": {
+        "sprite20": {
+            "steps": 37,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7503.bmp"
+        },
+        "sprite40": {
+            "steps": 37,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7703.bmp"
+        }
+    },
+    "(d)": {
+        "sprite20": {
+            "steps": 62,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7568.bmp"
+        },
+        "sprite40": {
+            "steps": 62,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7768.bmp"
+        }
+    },
+    "(devil)": {
+        "sprite20": {
+            "steps": 66,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7530.bmp"
+        },
+        "sprite40": {
+            "steps": 66,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7730.bmp"
+        }
+    },
+    "(dog)": {
+        "sprite20": {
+            "steps": 54,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7601.bmp"
+        },
+        "sprite40": {
+            "steps": 54,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7801.bmp"
+        }
+    },
+    "(doh)": {
+        "sprite20": {
+            "steps": 59,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7520.bmp"
+        },
+        "sprite40": {
+            "steps": 59,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7720.bmp"
+        }
+    },
+    "(drunk)": {
+        "sprite20": {
+            "steps": 48,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7574.bmp"
+        },
+        "sprite40": {
+            "steps": 48,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7774.bmp"
+        }
+    },
+    "(e)": {
+        "sprite20": {
+            "steps": 53,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7582.bmp"
+        },
+        "sprite40": {
+            "steps": 53,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7782.bmp"
+        }
+    },
+    "(emo)": {
+        "sprite20": {
+            "steps": 53,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7547.bmp"
+        },
+        "sprite40": {
+            "steps": 53,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7747.bmp"
+        }
+    },
+    "(envy)": {
+        "sprite20": {
+            "steps": 67,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7532.bmp"
+        },
+        "sprite40": {
+            "steps": 67,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7732.bmp"
+        }
+    },
+    "(f)": {
+        "sprite20": {
+            "steps": 82,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7555.bmp"
+        },
+        "sprite40": {
+            "steps": 82,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7755.bmp"
+        }
+    },
+    "(facepalm)": {
+        "sprite20": {
+            "steps": 76,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7529.bmp"
+        },
+        "sprite40": {
+            "steps": 76,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7729.bmp"
+        }
+    },
+    "(film)": {
+        "sprite20": {
+            "steps": 54,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7584.bmp"
+        }
+    },
+    "(flex)": {
+        "sprite20": {
+            "steps": 58,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7565.bmp"
+        },
+        "sprite40": {
+            "steps": 58,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7765.bmp"
+        }
+    },
+    "(handshake)": {
+        "sprite20": {
+            "steps": 61,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7550.bmp"
+        },
+        "sprite40": {
+            "steps": 61,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7750.bmp"
+        }
+    },
+    "(happy)": {
+        "sprite20": {
+            "steps": 69,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7542.bmp"
+        },
+        "sprite40": {
+            "steps": 69,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7742.bmp"
+        }
+    },
+    "(headbang)": {
+        "sprite20": {
+            "steps": 70,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7572.bmp"
+        },
+        "sprite40": {
+            "steps": 70,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7772.bmp"
+        }
+    },
+    "(heidy)": {
+        "sprite20": {
+            "steps": 74,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7554.bmp"
+        },
+        "sprite40": {
+            "steps": 74,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7754.bmp"
+        }
+    },
+    "(highfive)": {
+        "sprite20": {
+            "steps": 37,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7551.bmp"
+        },
+        "sprite40": {
+            "steps": 37,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7751.bmp"
+        }
+    },
+    "(hrv)": {
+        "sprite20": {
+            "steps": 87,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7575.bmp"
+        },
+        "sprite40": {
+            "steps": 87,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7775.bmp"
+        }
+    },
+    "(hug)": {
+        "sprite20": {
+            "steps": 75,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7534.bmp"
+        },
+        "sprite40": {
+            "steps": 75,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7734.bmp"
+        }
+    },
+    "(idea)": {
+        "sprite20": {
+            "steps": 119,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7597.bmp"
+        },
+        "sprite40": {
+            "steps": 119,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7797.bmp"
+        }
+    },
+    "(inlove)": {
+        "sprite20": {
+            "steps": 62,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7515.bmp"
+        },
+        "sprite40": {
+            "steps": 62,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7715.bmp"
+        }
+    },
+    "(kate)": {
+        "sprite20": {
+            "steps": 107,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7535.bmp"
+        },
+        "sprite40": {
+            "steps": 107,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7735.bmp"
+        }
+    },
+    "(kiss)": {
+        "sprite20": {
+            "steps": 59,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7509.bmp"
+        },
+        "sprite40": {
+            "steps": 59,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7709.bmp"
+        }
+    },
+    "(lalala)": {
+        "sprite20": {
+            "steps": 19,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7553.bmp"
+        },
+        "sprite40": {
+            "steps": 19,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7753.bmp"
+        }
+    },
+    "(malthe)": {
+        "sprite20": {
+            "steps": 66,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7594.bmp"
+        },
+        "sprite40": {
+            "steps": 66,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7794.bmp"
+        }
+    },
+    "(mm)": {
+        "sprite20": {
+            "steps": 92,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7525.bmp"
+        },
+        "sprite40": {
+            "steps": 92,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7725.bmp"
+        }
+    },
+    "(mooning)": {
+        "sprite20": {
+            "steps": 45,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7591.bmp"
+        },
+        "sprite40": {
+            "steps": 45,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7791.bmp"
+        }
+    },
+    "(mp)": {
+        "sprite20": {
+            "steps": 88,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7585.bmp"
+        },
+        "sprite40": {
+            "steps": 88,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7785.bmp"
+        }
+    },
+    "(music)": {
+        "sprite20": {
+            "steps": 54,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7559.bmp"
+        },
+        "sprite40": {
+            "steps": 54,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7759.bmp"
+        }
+    },
+    "(n)": {
+        "sprite20": {
+            "steps": 54,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7549.bmp"
+        },
+        "sprite40": {
+            "steps": 54,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7749.bmp"
+        }
+    },
+    "(nerdy)": {
+        "sprite20": {
+            "steps": 47,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7526.bmp"
+        },
+        "sprite40": {
+            "steps": 47,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7726.bmp"
+        }
+    },
+    "(ninja)": {
+        "sprite20": {
+            "steps": 121,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7570.bmp"
+        },
+        "sprite40": {
+            "steps": 121,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7770.bmp"
+        }
+    },
+    "(o)": {
+        "sprite20": {
+            "steps": 59,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7583.bmp"
+        },
+        "sprite40": {
+            "steps": 59,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7783.bmp"
+        }
+    },
+    "(oliver)": {
+        "sprite20": {
+            "steps": 63,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7592.bmp"
+        },
+        "sprite40": {
+            "steps": 63,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7792.bmp"
+        }
+    },
+    "(party)": {
+        "sprite20": {
+            "steps": 70,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7523.bmp"
+        },
+        "sprite40": {
+            "steps": 70,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7723.bmp"
+        }
+    },
+    "(pi)": {
+        "sprite20": {
+            "steps": 90,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7563.bmp"
+        },
+        "sprite40": {
+            "steps": 90,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7763.bmp"
+        }
+    },
+    "(poolparty)": {
+        "sprite20": {
+            "steps": 87,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7575.bmp"
+        },
+        "sprite40": {
+            "steps": 87,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7775.bmp"
+        }
+    },
+    "(puke)": {
+        "sprite20": {
+            "steps": 78,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7519.bmp"
+        },
+        "sprite40": {
+            "steps": 78,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7719.bmp"
+        }
+    },
+    "(punch)": {
+        "sprite20": {
+            "steps": 43,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7588.bmp"
+        },
+        "sprite40": {
+            "steps": 43,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7788.bmp"
+        }
+    },
+    "(rain)": {
+        "sprite20": {
+            "steps": 29,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7556.bmp"
+        },
+        "sprite40": {
+            "steps": 29,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7756.bmp"
+        }
+    },
+    "(rock)": {
+        "sprite20": {
+            "steps": 11,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7576.bmp"
+        },
+        "sprite40": {
+            "steps": 11,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7776.bmp"
+        }
+    },
+    "(rofl)": {
+        "sprite20": {
+            "steps": 80,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7540.bmp"
+        },
+        "sprite40": {
+            "steps": 80,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7740.bmp"
+        }
+    },
+    "(shake)": {
+        "sprite20": {
+            "steps": 50,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7545.bmp"
+        },
+        "sprite40": {
+            "steps": 50,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7745.bmp"
+        }
+    },
+    "(sheep)": {
+        "sprite20": {
+            "steps": 111,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7598.bmp"
+        },
+        "sprite40": {
+            "steps": 111,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7798.bmp"
+        }
+    },
+    "(skype)": {
+        "sprite20": {
+            "steps": 1,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7589.bmp"
+        },
+        "sprite40": {
+            "steps": 1,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7789.bmp"
+        }
+    },
+    "(smirk)": {
+        "sprite20": {
+            "steps": 53,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7543.bmp"
+        },
+        "sprite40": {
+            "steps": 53,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7743.bmp"
+        }
+    },
+    "(smoking)": {
+        "sprite20": {
+            "steps": 64,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7577.bmp"
+        },
+        "sprite40": {
+            "steps": 64,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7777.bmp"
+        }
+    },
+    "(sun)": {
+        "sprite20": {
+            "steps": 25,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7557.bmp"
+        },
+        "sprite40": {
+            "steps": 25,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7757.bmp"
+        }
+    },
+    "(swear)": {
+        "sprite20": {
+            "steps": 76,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7573.bmp"
+        },
+        "sprite40": {
+            "steps": 76,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7773.bmp"
+        }
+    },
+    "(talk)": {
+        "sprite20": {
+            "steps": 46,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7586.bmp"
+        },
+        "sprite40": {
+            "steps": 46,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7786.bmp"
+        }
+    },
+    "(talktothehand)": {
+        "sprite20": {
+            "steps": 61,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7596.bmp"
+        },
+        "sprite40": {
+            "steps": 61,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7796.bmp"
+        }
+    },
+    "(tauri)": {
+        "sprite20": {
+            "steps": 74,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7595.bmp"
+        },
+        "sprite40": {
+            "steps": 74,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7795.bmp"
+        }
+    },
+    "(think)": {
+        "sprite20": {
+            "steps": 58,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7538.bmp"
+        },
+        "sprite40": {
+            "steps": 58,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7738.bmp"
+        }
+    },
+    "(tmi)": {
+        "sprite20": {
+            "steps": 55,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7561.bmp"
+        },
+        "sprite40": {
+            "steps": 55,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7761.bmp"
+        }
+    },
+    "(toivo)": {
+        "sprite20": {
+            "steps": 83,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7579.bmp"
+        },
+        "sprite40": {
+            "steps": 83,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7779.bmp"
+        }
+    },
+    "(tumbleweed)": {
+        "sprite20": {
+            "steps": 31,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7558.bmp"
+        },
+        "sprite40": {
+            "steps": 31,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7758.bmp"
+        }
+    },
+    "(u)": {
+        "sprite40": {
+            "steps": 104,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7790.bmp"
+        }
+    },
+    "(wait)": {
+        "sprite20": {
+            "steps": 44,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7533.bmp"
+        },
+        "sprite40": {
+            "steps": 44,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7733.bmp"
+        }
+    },
+    "(waiting)": {
+        "sprite20": {
+            "steps": 50,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7546.bmp"
+        },
+        "sprite40": {
+            "steps": 50,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7746.bmp"
+        }
+    },
+    "(wasntme)": {
+        "sprite20": {
+            "steps": 75,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7522.bmp"
+        },
+        "sprite40": {
+            "steps": 75,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7722.bmp"
+        }
+    },
+    "(wave)": {
+        "sprite20": {
+            "steps": 56,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7528.bmp"
+        },
+        "sprite40": {
+            "steps": 56,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7728.bmp"
+        }
+    },
+    "(wfh)": {
+        "sprite20": {
+            "steps": 78,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7580.bmp"
+        },
+        "sprite40": {
+            "steps": 78,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7780.bmp"
+        }
+    },
+    "(whew)": {
+        "sprite20": {
+            "steps": 50,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7541.bmp"
+        },
+        "sprite40": {
+            "steps": 50,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7741.bmp"
+        }
+    },
+    "(worry)": {
+        "sprite20": {
+            "steps": 55,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7524.bmp"
+        },
+        "sprite40": {
+            "steps": 55,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7724.bmp"
+        }
+    },
+    "(y)": {
+        "sprite20": {
+            "steps": 39,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7548.bmp"
+        },
+        "sprite40": {
+            "steps": 39,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7748.bmp"
+        }
+    },
+    "(yawn)": {
+        "sprite20": {
+            "steps": 73,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7518.bmp"
+        },
+        "sprite40": {
+            "steps": 73,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7718.bmp"
+        }
+    },
+    "(yn)": {
+        "sprite20": {
+            "steps": 63,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7517.bmp"
+        },
+        "sprite40": {
+            "steps": 63,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7717.bmp"
+        }
+    },
+    "(zilmer)": {
+        "sprite40": {
+            "steps": 61,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7781.bmp"
+        }
+    },
+    "(~)": {
+        "sprite40": {
+            "steps": 54,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7784.bmp"
+        }
+    },
+    ":$": {
+        "sprite20": {
+            "steps": 68,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7511.bmp"
+        },
+        "sprite40": {
+            "steps": 68,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7711.bmp"
+        }
+    },
+    ":(": {
+        "sprite20": {
+            "steps": 62,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7501.bmp"
+        },
+        "sprite40": {
+            "steps": 62,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7701.bmp"
+        }
+    },
+    ":)": {
+        "sprite20": {
+            "steps": 50,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7544.bmp"
+        },
+        "sprite40": {
+            "steps": 50,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7744.bmp"
+        }
+    },
+    ":)": {
+		"sprite20": {
+            "steps": 52,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7500.bmp"
+        },
+        "sprite40": {
+            "steps": 52,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7700.bmp"
+        }
+    },
+    ":D": {
+        "sprite20": {
+            "steps": 76,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7502.bmp"
+        },
+        "sprite40": {
+            "steps": 76,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7702.bmp"
+        }
+    },
+    ":O": {
+        "sprite20": {
+            "steps": 67,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7504.bmp"
+        },
+        "sprite40": {
+            "steps": 67,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7704.bmp"
+        }
+    },
+    ":P": {
+        "sprite20": {
+            "steps": 71,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7510.bmp"
+        },
+        "sprite40": {
+            "steps": 71,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7710.bmp"
+        }
+    },
+    ":^)": {
+        "sprite20": {
+            "steps": 69,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7512.bmp"
+        },
+        "sprite40": {
+            "steps": 69,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7712.bmp"
+        }
+    },
+    ":x": {
+        "sprite20": {
+            "steps": 49,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7527.bmp"
+        },
+        "sprite40": {
+            "steps": 49,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7727.bmp"
+        }
+    },
+    ":|": {
+        "sprite20": {
+            "steps": 66,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7508.bmp"
+        },
+        "sprite40": {
+            "steps": 66,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7708.bmp"
+        }
+    },
+    ";(": {
+        "sprite20": {
+            "steps": 49,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7506.bmp"
+        },
+        "sprite40": {
+            "steps": 49,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7706.bmp"
+        }
+    },
+    ";)": {
+        "sprite20": {
+            "steps": 35,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7505.bmp"
+        },
+        "sprite40": {
+            "steps": 35,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7705.bmp"
+        }
+    },
+    "<3": {
+        "sprite20": {
+            "steps": 16,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7552.bmp"
+        },
+        "sprite40": {
+            "steps": 16,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7752.bmp"
+        }
+    },
+    "\\o/": {
+        "sprite20": {
+            "steps": 205,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7569.bmp"
+        },
+        "sprite40": {
+            "steps": 205,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7769.bmp"
+        }
+    },
+    "zilmer": {
+        "sprite20": {
+            "steps": 61,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7581.bmp"
+        }
+    },
+    "|-(": {
+        "sprite20": {
+            "steps": 76,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7514.bmp"
+        },
+        "sprite40": {
+            "steps": 76,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7714.bmp"
+        }
+    },
+    "|-)": {
+        "sprite20": {
+            "steps": 71,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7513.bmp"
+        },
+        "sprite40": {
+            "steps": 71,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7713.bmp"
+        }
+    },
+    "}:)": {
+        "sprite20": {
+            "steps": 77,
+            "type": "sprite20",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7516.bmp"
+        },
+        "sprite40": {
+            "steps": 77,
+            "type": "sprite40",
+            "url": "https://megamit.github.io/BetterDiscordSkypeEmotes/emotes/7716.bmp"
+        }
+    }
+}
